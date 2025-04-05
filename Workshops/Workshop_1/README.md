@@ -1,3 +1,3 @@
-# 🧠 “20 questions” competition
+## 🧠 “20 questions” competition
 
 This project participates in the Kaggle 20 Questions competition, where the goal is to develop an intelligent system composed of two agents (a questioner and a responder) that collaborate to guess a secret word in a maximum of 20 rounds, using only yes or no questions. The objective is to analyze how the system behaves under principles of systems analysis, evaluating its homeostasis, sensitivity, synergy and adaptive capacity in the face of uncertainty, integrating concepts such as chaos theory and feedback. This approach allows observing how small variations in the inputs can significantly affect the outputs, and how accurate communication between agents improves the results. The system is implemented in Python and uses linguistic models for deductive reasoning to optimize decision making and maximize performance within the constraints of the competitive environment.
