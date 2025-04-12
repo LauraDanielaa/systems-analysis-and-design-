@@ -5,5 +5,7 @@ This repository contains workshops from the Systems Analysis and Design course. 
 
 ### Autor
 -Esteban Alexander Bautista Solano –– 20221020089 
+
 -Laura Daniela Muñoz Ipus – 20221020020 
+
 -Luisa Fernanda Guerrero Ordoñez - 20212020099 
